@@ -1,0 +1,15 @@
+/home/scrviy/dev/dotnet/comments/bin/Debug/net7.0/comments
+/home/scrviy/dev/dotnet/comments/bin/Debug/net7.0/comments.deps.json
+/home/scrviy/dev/dotnet/comments/bin/Debug/net7.0/comments.runtimeconfig.json
+/home/scrviy/dev/dotnet/comments/bin/Debug/net7.0/comments.dll
+/home/scrviy/dev/dotnet/comments/bin/Debug/net7.0/comments.pdb
+/home/scrviy/dev/dotnet/comments/obj/Debug/net7.0/comments.csproj.AssemblyReference.cache
+/home/scrviy/dev/dotnet/comments/obj/Debug/net7.0/comments.GeneratedMSBuildEditorConfig.editorconfig
+/home/scrviy/dev/dotnet/comments/obj/Debug/net7.0/comments.AssemblyInfoInputs.cache
+/home/scrviy/dev/dotnet/comments/obj/Debug/net7.0/comments.AssemblyInfo.cs
+/home/scrviy/dev/dotnet/comments/obj/Debug/net7.0/comments.csproj.CoreCompileInputs.cache
+/home/scrviy/dev/dotnet/comments/obj/Debug/net7.0/comments.dll
+/home/scrviy/dev/dotnet/comments/obj/Debug/net7.0/refint/comments.dll
+/home/scrviy/dev/dotnet/comments/obj/Debug/net7.0/comments.pdb
+/home/scrviy/dev/dotnet/comments/obj/Debug/net7.0/comments.genruntimeconfig.cache
+/home/scrviy/dev/dotnet/comments/obj/Debug/net7.0/ref/comments.dll
