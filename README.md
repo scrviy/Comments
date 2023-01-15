@@ -4,7 +4,7 @@
 - Serve para auxiliar outros programadores a entender seu código, e entender códigos grandes.
 - Comentários serão ignorados pelo compilador, ou seja, não serão executados quando nosso código for compilado no fim.
 
---
+---
 
 #### Tipos de comentários
 
