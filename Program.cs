@@ -18,18 +18,15 @@ namespace Comments
         {
             /* Comentário em Csharp.
             Definição do tema comentário em C#. */
+
             Console.WriteLine("Bem vindo ao módulo de comentários na linguagem c#."); 
-
-            // Impressão de mensagem no console.
             Console.WriteLine("Digite seu nome: ");
-
-            // Armazenamento do nome escrito no console em uma variável do tipo string == texto;
             string? hello = Console.ReadLine();
 
             /* Instanciando variável
             Imprimindo texto no console */
-            string frase = "Seja bem vindo ao console";
-            Console.WriteLine(frase);
+            string frase = ", seja bem vindo ao console.";
+            Console.WriteLine(hello + frase);
 
 
         }
